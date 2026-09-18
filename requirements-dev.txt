@@ -1,0 +1,4 @@
+# Dev-time only, for scripts/fetch_data.py.
+# Nothing under skill/ may depend on these -- see CLAUDE.md.
+pandas>=2.0
+requests>=2.31
