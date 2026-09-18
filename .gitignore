@@ -1,0 +1,7 @@
+# 17Lands public datasets, re-downloadable and far too large to track
+data/raw/*.csv.gz
+
+__pycache__/
+*.py[cod]
+.venv/
+.env
